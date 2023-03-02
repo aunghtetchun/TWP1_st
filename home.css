@@ -1,0 +1,25 @@
+body{
+    background-color: #fce8e6;
+}
+.txt1{
+    color: gray;
+    font-size: x-small;
+}
+.txt2{
+    font-weight: bold;
+    font-size: smaller;
+    text-decoration: none;
+    color: black;
+}
+.nav-link{
+    font-weight: bold;
+}
+.input-group{
+    padding-left: 20%;
+}
+.btn-yel{
+    background-color: rgb(216, 187, 107);
+}
+.gray{
+    color: gray;
+}
